@@ -7,5 +7,10 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 [Consulter mon site Web: **norfair00.fr**](https://norfair00.fr/)  
 [Suis moi sur Twitter: **@norfair00**](https://twitter.com/norfair00)
