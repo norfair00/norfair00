@@ -18,4 +18,4 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
-          LOCALE: "fr_FR"
+          LOCALE: "en"
