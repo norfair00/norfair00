@@ -8,7 +8,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 **🐱 My Github Data** 
 
@@ -51,16 +51,17 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Properties               0 secs              █████████████████████████   100.0% 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TLauncher                0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -71,10 +72,6 @@ JavaScript               1 repos             ███████████�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/norfair00/norfair00/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
