@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
     - cron: '0 1 * * *'
 
 jobs:
-  update-readme:
+  update-waka:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
