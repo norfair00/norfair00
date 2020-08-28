@@ -1,12 +1,12 @@
 J'ai rejoint Github il y a **8** ans.
 
-Depuis, j'ai push **131** commits, ouvert **52** issues, soumis **6** pull requests, reçu **1** stars à travers **4** projets personnels et contribué à **22** repositories publics.
+Depuis, j'ai push **132** commits, ouvert **52** issues, soumis **6** pull requests, reçu **1** stars à travers **4** projets personnels et contribué à **22** repositories publics.
 
 Langues les plus utilisées dans mes projets:
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&logo=JavaScript&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B167.7%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&logo=CSS&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B118.8%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&logo=HTML&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B113.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B167.7%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B118.8%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B113.4%25)
 
 
 <!--START_SECTION:waka-->
