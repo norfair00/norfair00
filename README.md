@@ -6,7 +6,7 @@
 [<img src="https://avatars1.githubusercontent.com/u/65110091?s=96&v=4" width="32" height="32" align="center"> **J'ai pas d'Email**](https://github.com/jaipasdemail) — Service email personnel.  
 
 ---
-<!--lmdikjfsqlmkdjklqskldlmsqjd-->
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
