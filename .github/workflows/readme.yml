@@ -3,7 +3,7 @@ name: Readme
 on:
   push:
     branches:
-      - main
+    - main
 
 jobs:
   publish:
