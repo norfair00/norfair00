@@ -2,10 +2,7 @@ name: Readme
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
+    - cron: '0 */10 * * *' # every 12 hours
 
 jobs:
   publish:
