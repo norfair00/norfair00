@@ -2,10 +2,7 @@ name: Waka
 
 on:
   schedule:
-    - cron: '3 */12 * * *' # every 12 hours
-  push:
-    branches:
-      - master
+    - cron: '3 */10 * * *'
 
 jobs:
   update-waka:
