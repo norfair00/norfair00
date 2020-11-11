@@ -1,6 +1,6 @@
 J'ai rejoint Github il y a **9** ans.
 
-Depuis, j'ai push **241** commits, ouvert **52** issues, soumis **5** pull requests, reçu **2** stars à travers **6** projets personnels et contribué à **20** repositories publics.
+Depuis, j'ai push **249** commits, ouvert **52** issues, soumis **5** pull requests, reçu **2** stars à travers **7** projets personnels et contribué à **20** repositories publics.
 
 ---
 
@@ -10,57 +10,14 @@ Depuis, j'ai push **241** commits, ouvert **52** issues, soumis **5** pull reque
 ---
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-🌆 Daytime    45 commits     █████░░░░░░░░░░░░░░░░░░░░   19.82% 
-🌃 Evening    63 commits     ███████░░░░░░░░░░░░░░░░░░   27.75% 
-🌙 Night      110 commits    ████████████░░░░░░░░░░░░░   48.46%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Tuesday      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
-Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-Thursday     46 commits     █████░░░░░░░░░░░░░░░░░░░░   20.26% 
-Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Saturday     59 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99% 
-Sunday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-JavaScript               2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   37.68% 
-JSON                     2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.57% 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-EJS                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
-
-🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 ---
 
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&color=555&labelColor=%23f1e05a&message=67.7%25)
-![CSS](https://img.shields.io/static/v1?style=for-the-badge&label=CSS&color=555&labelColor=%23563d7c&message=18.8%25)
-![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=HTML&color=555&labelColor=%23e34c26&message=13.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&color=555&labelColor=%23f1e05a&message=72.3%25)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&label=CSS&color=555&labelColor=%23563d7c&message=21.1%25)
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=HTML&color=555&labelColor=%23e34c26&message=4.9%25)
+![Handlebars](https://img.shields.io/static/v1?style=for-the-badge&label=Handlebars&color=555&labelColor=%23f7931e&message=1.5%25)
 
 ---
 
