@@ -1,6 +1,6 @@
 J'ai rejoint Github il y a **9** ans.
 
-Depuis, j'ai push **294** commits, ouvert **52** issues, soumis **5** pull requests, reçu **3** stars à travers **9** projets personnels et contribué à **22** repositories publics.
+Depuis, j'ai push **295** commits, ouvert **52** issues, soumis **5** pull requests, reçu **3** stars à travers **9** projets personnels et contribué à **22** repositories publics.
 
 ---
 
@@ -10,46 +10,6 @@ Depuis, j'ai push **294** commits, ouvert **52** issues, soumis **5** pull reque
 ---
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
-🌆 Daytime    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
-🌃 Evening    68 commits     ███████░░░░░░░░░░░░░░░░░░   28.45% 
-🌙 Night      117 commits    ████████████░░░░░░░░░░░░░   48.95%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Tuesday      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09% 
-Wednesday    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-Thursday     49 commits     █████░░░░░░░░░░░░░░░░░░░░   20.5% 
-Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Saturday     59 commits     ██████░░░░░░░░░░░░░░░░░░░   24.69% 
-Sunday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   20.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-YAML                     11 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 ---
