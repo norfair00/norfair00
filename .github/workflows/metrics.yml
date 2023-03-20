@@ -17,4 +17,10 @@ jobs:
           config_timezone: Europe/Paris
           filename: metrics/profile.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: 76561198082577090
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 10
+          plugin_steam_games_ignored: 629520,400040,388080
