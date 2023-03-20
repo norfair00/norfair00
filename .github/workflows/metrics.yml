@@ -1,0 +1,19 @@
+name: FlixPrimeTV metrics
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  norfair00-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Norfair00 Profile
+      uses: lowlighter/metrics@latest
+      with:
+        config_timezone: Europe/Paris
+        filename: metrics/profile.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, activity, community, repositories, metadata
