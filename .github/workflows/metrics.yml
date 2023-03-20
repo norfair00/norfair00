@@ -9,6 +9,7 @@ on:
 jobs:
   norfair00-profile:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - name: Norfair00 Profile
         uses: lowlighter/metrics@latest
